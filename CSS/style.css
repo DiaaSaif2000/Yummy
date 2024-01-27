@@ -1,0 +1,44 @@
+
+logo{
+    height: 50px;
+    width: 50px;
+    background-position: center;
+}
+/* home*/
+header{
+    background:linear-gradient(rgba(0,0,0,0.7)0% 100%), url(../images/urzj1d1587670726.jpg);
+    height: 100vh;
+    background-position: center;
+    background-size:cover ;
+}
+
+header .content-Search{
+    font-size: 3.125rem;
+}
+
+body{
+    font-family:'Nuneto Sans',sans-serif;
+}
+
+h1,h2,h3,h4,h5{
+    font-family: 'Monestraat', sans-serif;
+}
+
+.caption{
+    top:50%;
+    width: 60%;
+    left: 10%;
+}
+
+.overlay{
+    z-index:999;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.child{
+    width: 60%;
+    height: 500px;
+
+    background-image: url(../images/1bsv1q1560459826.jpg);
+    background-size:100% 100% ;
+}
